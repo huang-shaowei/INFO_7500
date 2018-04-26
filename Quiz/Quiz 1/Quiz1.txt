@@ -1,0 +1,11 @@
+1. bcd
+
+2. 
+STEP 1. generate a nonce and then apply the hash function to the first document and the nonce. 
+STEP 2. We have already got the result of which the first document and the nonce applied to hash function. Then, we could use this nonce and the second document to do the hash function so that we will get the second hash function result.
+STEP 3. We can compare the hash function results of the two documents. If the two results are the same, then we could tell that this two documents are identical. Otherwise, they are not.
+
+3. Because a nonce is a secret random value ,it makes the input very spread out and thus makes the hash function to become hiding.
+A nonce must be chosen randomly and it is high min-entropy. We must choose a new random value as a nonce every time we do commitment. 
+
+4. a

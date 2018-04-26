@@ -1,0 +1,9 @@
+1. The reading for next week is the Ethereum white paper:
+
+https://github.com/ethereum/wiki/wiki/White-Paper
+
+2. Quiz 5 will be next week during class on 11/14 on the reading.
+
+3. Assignments 7 has been released. It is due on 11/30. It's important that you start early, as this homework requires significant setup to configure your computer with the Ethereum development environment.
+
+4. When calculating your final grade, your lowest quiz grade will be dropped from the calculation. That way, if you missed one quiz or performed below your expectation, it won't negatively affect your grade.

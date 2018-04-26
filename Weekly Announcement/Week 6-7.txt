@@ -1,0 +1,9 @@
+1. The reading for next week is Chapter 3 in the BCT book.
+
+2. The next lecture on Bitcoin Mechanics is available at the following link:
+
+https://vimeo.com/211146037/8a2ae7bdf3
+
+3. Quiz 4 will be next week during class on 10/31.
+
+4. Assignments 5 and 6 have both been released. They are due on 11/2 and 11/16.  It's important that you start early, as this homework requires you to interact with the Bitcoin network which is unreliable and slow.

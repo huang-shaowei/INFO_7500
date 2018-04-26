@@ -1,0 +1,18 @@
+4. The current receive address:
+   mrwoBFSBKp1Wa977Bj3f4n1o5HCFk2h21u
+
+5.
+1) The transaction ID:      70ef76387227d5141ffac697f7305655d4a355e46677c96b2678c5ad27ac601f
+2) The amount of testnet coins:   
+	1.10000000 tBTC
+3) How many outputs does the transaction have?
+	2 outputs
+4) What is the purpose of the output that locks coins to the address that's not yours? 
+	The purpose is to avoid them to be double-spent.
+
+8. Address begins with "1HUAN": 1HUANbMnC3RTF66oBJYNfk8UetZeEiK4r3
+
+
+
+
+

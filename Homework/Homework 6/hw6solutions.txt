@@ -1,0 +1,24 @@
+3.
+1)
+First, the ScriptTester.run() creates a locking script, and uses it to lock the transaction which was created previously, then, sending the locked transaction txA out. 
+Next, if the locking step is completed successfully, ScriptTester.run() will create an unlocking script, and unlock the locked transaction txA and execute the second transaction B. 
+Once transactions txA and txB are not able to display successfully which indicates that there might have some errors within the locking or unlocking scripts. Therefore, the method ScriptTester.run() is capable of testing the locking or unlocking scripts in the class PayToPubKey via this process.
+
+2) 
+TxHash=fd9a18489578bf5d6f2dc7c15a7331af8bc877ec8ae3519659257f56b4597e0f
+TxHash=ef4898e08e132479d71e83348552ea8defc037acc79934c868416352ca9368a2
+
+4.
+TxHash=cee9fd333efb013dd4af30059c5de45dbc415b4b3090691bff077215e25d16b1
+TxHash=68c76c9e6ce5f3c082040624742b7840c0196768930474f0c37c252643f1806e
+
+5.
+TxHash=46366385313f301993257e7711292f71894623400c40ae66aee8cfc5c6970154
+TxHash=4ca51f16ff4713e12ad64ff16f19b5e9f3ba85d4d590b2a827d568bfaf1da906
+
+6.
+TxHash=48349ec22c9483f87e6a49f859f56b64c663b830cdd4b92eb9ff07232fcfefd0
+TxHash=aa929631bfd77c5ebffad9657d4abc6b1bd1135295ec5b6e2d3ef5c18fc59d75
+
+7.
+TxHash=9866d34150e8738f7a68df7d091143e3048b7f524f06ce22988360b22ef17538
